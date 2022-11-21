@@ -11,6 +11,7 @@ module.exports = {
       textDiscount: '#a4d007' ,
       bgDiscount: 'rgb(76, 107, 34)',
       bgPrice: 'rgb(34, 32, 50)',
+      textBlack: '#000'
     },
     
   },
